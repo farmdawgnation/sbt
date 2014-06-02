@@ -1,6 +1,6 @@
-## Ubuntu Dockerfile
+## Sbt Dockerfile
 
-[Docker](https://www.docker.io/) [sbt](http://www.scala-sbt.org/) [Dockerfile](https://www.docker.io/learn/dockerfile/).  Also published to public [Docker Registry](https://index.docker.io/).
+[Docker](https://www.docker.io/) [Sbt](http://www.scala-sbt.org/) [Dockerfile](https://www.docker.io/learn/dockerfile/).  Also published to public [Docker Registry](https://index.docker.io/).
 
 ### Installation
 
