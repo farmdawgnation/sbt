@@ -21,5 +21,5 @@
 ### Usage
 
 ```
-docker run -it --rm dockerize/sbt
+docker run -it --rm -v <data-dir>/data dockerize/sbt
 ```
